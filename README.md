@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gilbertomjunior
-- 👀 I’m interested in Development and Dogs 
+- 👀 I’m interested in Development and Games 
 - 🌱 I’m currently learning Backend, Data and Devops
 - 📫 How to reach me gilberto.medeiros@thoughtworks.com
 - 😄 Pronouns: He/Him
